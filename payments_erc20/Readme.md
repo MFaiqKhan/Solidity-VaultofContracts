@@ -1,0 +1,1 @@
+Just a normal contract that uses ERC20 for payment .
